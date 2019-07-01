@@ -1,0 +1,19 @@
+{
+  "name": "nunjucks-express-boilerplate",
+  "version": "1.0.0",
+  "description": "This is sample nunjucks and express boilerplate :D",
+  "main": "index.js",
+  "repository": "https://github.com/Lukyhenson/nunjucks-express-boilerplate",
+  "author": "Tauan Tathiell | @lukyhenson",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon src/index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "nunjucks": "^3.2.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  }
+}
